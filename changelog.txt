@@ -1,0 +1,4 @@
+v1.0
+- Initial version
+- fix manual_search function
+- add black background (opaque box) with yellow font color
