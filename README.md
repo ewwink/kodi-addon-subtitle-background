@@ -12,6 +12,9 @@ This Kodi / XBMC Addon will search subtitles from subscene.com then add black ba
 ## .SRT to .ASS Module ##
 This addon use python-srt2ass converter script from https://github.com/ewwink/python-srt2ass
 
+## Credit and original Addon ##
+https://github.com/manacker/service.subtitles.subscene
+
 ## DEMO ##
 Youtube Video: https://www.youtube.com/watch?v=9ZXTBHqG6CA
 
